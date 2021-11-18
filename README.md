@@ -1,7 +1,6 @@
 # `tfreq`—A legacy project
 
-“Software to compute vibrational density of states from molecular dynamics
-data.”
+*Software to compute vibrational density of states from molecular dynamics data.*
 
 I started writing this program in 2008. I was just starting to switch to C from
 using Fortran 77 as my every-day language. (Yeah, I know, right?)
