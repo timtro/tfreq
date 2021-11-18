@@ -2,11 +2,23 @@
 
 *Software to compute vibrational density of states from molecular dynamics data.*
 
-I started writing this program in 2008. I was just starting to switch to C from
-using Fortran 77 as my every-day language. (Yeah, I know, right?)
+I wrote this program in 2008. I was just starting to switch to C from using
+Fortran 77 as my every-day language. (Yeah, I know, right?)
 
 Thirteen years later, I now consider myself a proper programmer. So as a fun
 side-project, I thought I would rewrite this program.
+
+So, this project is in an intermediate state. I'm going to redevelop it slowly
+in my spare time. So:
+
+```
+⚠️  WARNING ⚠️o This project is in an intermediate state.
+```
+
+If you're a prospective employer, please, do not consider this as an example of
+my work. This is what I was writing over a decade ago when I didn't take
+programming seriously as its own art and science.
+
 
 ## Why?
 
