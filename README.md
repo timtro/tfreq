@@ -12,7 +12,7 @@ So, this project is in an intermediate state. I'm going to redevelop it slowly
 in my spare time. So:
 
 ```
-⚠️  WARNING ⚠️o This project is in an intermediate state.
+⚠️  WARNING ⚠️  This project is in an intermediate state.
 ```
 
 If you're a prospective employer, please, do not consider this as an example of
