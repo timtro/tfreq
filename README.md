@@ -24,14 +24,14 @@ programming seriously as its own art and science.
 
 I recall at the time that there was no software out there for doing this
 calculation, and it was difficult to find papers that ever described it. I
-recall one by Jorge Hohanoff:
+recall one by Jorge Kohanoff:
 
 > **Phonon spectra from short non-thermally equilibrated molecular dynamics simulations**
 > *Kohanoff, Jorge*
 > ISSN: 0927-0256 , 1879-0801; DOI: 10.1016/0927-0256(94)90103-1
 > Computational materials science , 1994, Vol.2(2), p.221-232
 
-which was impossible to find. I had to write Prof. Hohanoff who kindly mailed me
+which was impossible to find. I had to write Prof. Kohanoff who kindly mailed me
 one of his personal copies.
 
 It's probably a lot easier now, and there is probably good software built into
